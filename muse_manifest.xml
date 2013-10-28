@@ -1,0 +1,31 @@
+<manifest alg="2" build="751" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="114823713"/>
+    <file name="master_a-master.css" crc="3836930916" ref="photography:index:film"/>
+    <file name="photography.css" crc="3939190706" ref="photography"/>
+    <file name="index.css" crc="3788561745" ref="index"/>
+    <file name="film.css" crc="4292175369" ref="film"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:photography:film"/>
+    <file name="museutils.js" crc="3885830161" ref="index:photography:film"/>
+    <file name="jquery.musemenu.js" crc="32367222" ref="index:photography:film"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:photography:film"/>
+    <file name="webpro.js" crc="4369767" ref="photography"/>
+    <file name="musewpslideshow.js" crc="83045620" ref="photography"/>
+    <file name="jquery.museoverlay.js" crc="3925244142" ref="photography"/>
+    <file name="touchswipe.js" crc="261777990" ref="photography"/>
+  </folder>
+  <folder name="images">
+    <file name="aperture-logo-2560.png" crc="46081976" ref="index"/>
+    <file name="img_4581.jpg" crc="4140759119" ref="photography"/>
+    <file name="blank.gif" crc="4208392903" ref="photography"/>
+    <file name="img_8829.jpg" crc="4101519422" ref="photography"/>
+    <file name="img_458186x45.jpg" crc="247743469" ref="photography"/>
+    <file name="img_882960x86.jpg" crc="4285398857" ref="photography"/>
+    <file name="loading.gif" crc="3815509949" ref="photography"/>
+  </folder>
+  <file name="index.html" crc="95363878" mt="1382937046151"/>
+  <file name="photography.html" crc="3834119550" mt="1382936997079"/>
+  <file name="film.html" crc="4278606064" mt="1382936997081"/>
+</manifest>
